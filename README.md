@@ -55,7 +55,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-> Customize `.env` with your TempMail
+> Customize `.env` with your TempMail.lol
 
 ---
 
