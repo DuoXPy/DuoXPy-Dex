@@ -49,20 +49,28 @@ cd DuoXPy
 pip install -r requirements.txt
 ```
 
-3. Run the bot:
+3. **Set your environment variable**:
+
+Create a `.env` file in the root directory and add your [TempMail.lol](https://tempmail.lol) API key:
+
+```env
+TEMPMAIL_API_KEY=your_api_key_here
+```
+
+> ⚠️ `TEMPMAIL_API_KEY` must be set in your environment for the bot to work, to get the API Key go to https://tempmail.lol/api
+
+4. Run the bot:
 
 ```bash
 python main.py
 ```
-
-> Customize `.env` with your TempMail.lol
 
 ---
 
 ## 🚀 Features
 
 * 🚀 Account Creation
-* 🕸️ Multi Threading
+* 🔸 Multi Threading
 
 ---
 
