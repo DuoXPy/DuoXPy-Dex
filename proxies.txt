@@ -1,0 +1,11 @@
+# DuoXPy Account Creator - Proxy Configuration
+# Add your SOCKS5 proxies here, one per line
+# Format: socks5://username:password@host:port
+# Leave empty or comment out lines if you don't want to use proxies
+
+# Example proxies (replace with your actual proxies):
+# socks5://user:pass@proxy1.example.com:1080
+# socks5://user:pass@proxy2.example.com:1080
+# socks5://user:pass@proxy3.example.com:1080
+
+# If you don't want to use proxies, leave this file empty or delete it 
