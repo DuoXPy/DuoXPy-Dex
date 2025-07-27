@@ -71,7 +71,7 @@ socks5://username:password@proxy2.example.com:1080
 5. **Run the CLI**:
 
 ```bash
-python account_creator.py
+python main.py
 ```
 
 ---
