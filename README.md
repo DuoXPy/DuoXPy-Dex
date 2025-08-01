@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?style=flat-square&logo=discord">
   </a>
   <a href="https://github.com/Chromeyc/DuoXPy">
-    <img src="https://img.shields.io/github/stars/Chromeyc/DuoXPy?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/DuoXPy/DuoXPy-Dex?style=social" alt="GitHub stars">
   </a>
 </p>
 
